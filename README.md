@@ -1,6 +1,6 @@
 # App Form
 
-Aplicación Flutter de la actividad 2 del tercer corte. Incluye un formulario
+Aplicación Flutter de la actividad 3.2 del tercer corte. Incluye un formulario
 de login validado, autenticación local con tres usuarios, navegación con
 `go_router`, dashboard y cierre de sesión.
 
